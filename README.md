@@ -25,7 +25,7 @@ EncryptoVault is a secure password manager that uses RSA encryption to store and
    ```bash
    git clone https://github.com/your-repo/encrypto-vault.git
    cd encrypto-vault
-```
+   ```
 2. Install the required dependencies.
 ```bash
 pip install -r requirements.txt
