@@ -1,0 +1,11 @@
+### Explanation of Files
+
+1. **`requirements.txt`**:
+   - Lists the external Python libraries required for the project.
+   - Users can install all dependencies with a single command: `pip install -r requirements.txt`.
+
+2. **`README.md`**:
+   - Provides comprehensive documentation for users and developers.
+   - Includes sections for installation, usage, security notes, troubleshooting, and contributing.
+   - Written in Markdown for easy rendering on GitHub or other platforms.
+
