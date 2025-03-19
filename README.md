@@ -27,10 +27,11 @@ EncryptoVault is a secure password manager that uses RSA encryption to store and
    cd encrypto-vault
    ```
 2. Install the required dependencies.
-```bash
-pip install -r requirements.txt
-```
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Run the setup.py script to generate the RSA key pair.
-```bash
-python3 setup.py
-```
+   ```bash
+   python3 setup.py
+   ```
